@@ -1,16 +1,16 @@
-Programm zur Kommunikation mit dem MyPV-Heizstab
+Programm zur Kommunikation mit dem ELWA(DC) Heizstab von MyPV
 über das (optionale) my-PV USB-Interface für alle ELWA Geräte 
 
 Folgende Daten können ausgelesen werden:
-- aktuelle Betriebsdaten (ohne Wartezeit anders als bei der Software ELWA V1_07.exe)
+- aktuelle Betriebsdaten (ohne Wartezeit, anders als bei der Software ELWA V1_07.exe)
 - Tagesdaten je Betriebstag
 - Viertelstundenwerte für Temperatur und Leistung
-  (ohne Diagramm)
+  (ohne Diagramme)
 
 Das Programm habe ich entwickelt weil nach einem Jahr das schnelle Auslesen der Betriebsdaten praktisch kaum noch möglich war.
 Grund:
 Beim Programm des Herstellers MyPv wurden immer erst die Historiendaten komplett geladen, 
-was zu langen Wartezeiten auf die ersten Betriebsdaten führte.
+was zu langen Wartezeiten (> 15min) auf die ersten Betriebsdaten führte.
 
 Gern nehme ich Hinweise zur Verbesserung an - oder stelle ggf. auch die Quellen zur Verfügung
 (VisualStudio 2022 / VB)
