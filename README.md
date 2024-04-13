@@ -15,4 +15,21 @@ was zu langen Wartezeiten auf die ersten Betriebsdaten führte.
 Gern nehme ich Hinweise zur Verbesserung an - oder stelle ggf. auch die Quellen zur Verfügung
 (VisualStudio 2022 / VB)
 
-Martin Ruß 2024 
+Martin Ruß, April 2024 
+
+Bedienung des Programms:
+1. Schaltfläche "COM-Port suchen" betätigen und danach in der darunterliegenden ComboBox den COM-Port auswählen.
+   (bei Erfolg gibt es ein grünes "Signal")
+2. danach können die weiteren Schaltflächen genutzt werden
+   - "Akt. Betriebsdaten" werden im Intervall von 2 Sekunden aktualisiert. Intervall variabel wählbar
+
+   - "Day power data": Anzeige der Solarleistung im Viertelstundenintervall (keine Auswertung)
+
+   - "Day temp data": Anzeige der Wassertemperatur im Viertelstundenintervall (keine Auswertung)
+
+   - "DataLog": Auslesen der Leistungsdaten je Betriebstag
+      hier bitte den Betriebstag einstellen, ab dem die Daten in die Textbox übertragen werden sollen
+      Achtung: wenn man ab Betriebstag 1 beginnt kann es sehr lange dauern (mehrere Minuten) bis die gelbe Schaltfläche
+      auf grün switcht und das Ende der Übertragung anzeigt.
+      Daten können Über die Zwischenablage (Strg+A / Strg+C) in eine Tabellenkalkulation importiert werden
+     
