@@ -15,7 +15,8 @@ was zu langen Wartezeiten (> 15min) auf die ersten Betriebsdaten führte.
 Gern nehme ich Hinweise zur Verbesserung an - oder stelle ggf. auch die Quellen zur Verfügung
 (VisualStudio 2022 / VB)
 
-Martin Ruß, April 2024 
+Martin Ruß, April 2024
+Please feel free to contact me: github@russ-web.de
 
 Bedienung des Programms:
 1. Schaltfläche "COM-Port suchen" betätigen und danach in der darunterliegenden ComboBox den COM-Port auswählen.
