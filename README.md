@@ -16,6 +16,7 @@ Gern nehme ich Hinweise zur Verbesserung an - oder stelle ggf. auch die Quellen 
 (VisualStudio 2022 / VB)
 
 Martin Ruß, April 2024
+
 Please feel free to contact me: github@russ-web.de
 
 Bedienung des Programms:
