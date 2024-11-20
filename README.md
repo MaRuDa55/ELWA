@@ -7,7 +7,7 @@ Folgende Daten können ausgelesen werden:
 - Viertelstundenwerte für Temperatur und Leistung
   (ohne Diagramme)
 
-Das Programm habe ich entwickelt weil nach einem Jahr das schnelle Auslesen der Betriebsdaten praktisch kaum noch möglich war.
+Das Programm habe ich entwickelt weil nach einem Jahr das Auslesen der akt. Betriebsdaten praktisch kaum noch möglich war.
 Grund:
 Beim Programm des Herstellers MyPv wurden immer erst die Historiendaten komplett geladen, 
 was zu langen Wartezeiten (> 15min) auf die ersten Betriebsdaten führte.
@@ -18,6 +18,7 @@ Gern nehme ich Hinweise zur Verbesserung an - oder stelle ggf. auch die Quellen 
 Martin Ruß, April 2024
 
 Please feel free to contact me: github@russ-web.de
+Über ein feedback würde ich mich auch freuen!
 
 Bedienung des Programms:
 1. Schaltfläche "COM-Port suchen" betätigen und danach in der darunterliegenden ComboBox den COM-Port auswählen.
